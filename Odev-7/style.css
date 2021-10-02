@@ -49,7 +49,20 @@
   }
   
   .carousel-inner img {
-    width: 50%;
-    height: 50%;
+    width: 80%;
+    height: auto;
+    margin: auto;
+  }
+  .carusel-title{
+color: #CF101F;
+font-family:  ecoro;
+padding-left: 20%;
+
+  }
+  p{
+
+    font-weight: bold;
+    padding-left: 20%;
+    line-height: 35px;
   }
  
